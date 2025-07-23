@@ -87,6 +87,7 @@ bower_components
 *.db
 *.sqlite
 *.sqlite3
+db.js
 
 # Local development files
 *.local
