@@ -73,7 +73,7 @@ Task-Manager/
 1️⃣ Clone the repository
 bash
 Copy code
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/Nazishahmad07/Task_Manager.git
 cd task-manager
 2️⃣ Backend Setup
 bash
